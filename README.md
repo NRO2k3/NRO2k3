@@ -1,0 +1,60 @@
+<!-- Banner sóng động -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25F4EE,100:FE2C55&height=190&section=header&text=NRO2K3&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Hanoi%2C%20Vietnam&descAlignY=58&descSize=18" alt="NRO2K3 — Full-stack Developer">
+</p>
+
+<!-- Dòng chữ tự gõ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FE2C55&center=true&vCenter=true&width=560&lines=Full-stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+Microservices;TypeScript+%C2%B7+React+%C2%B7+Ant+Design;Python+automation+%26+desktop+tools" alt="Full-stack Developer · Java · Spring Boot · TypeScript · React · Python">
+</p>
+
+<p align="center">
+  I build web platforms, backend services and desktop tools: Spring Boot APIs and microservices,
+  React front-ends, and Python automation that turns repetitive work into one click.
+</p>
+
+---
+
+### About me
+
+- Full-stack developer working mainly with **Java / Spring Boot**, **TypeScript / React** and **Python**.
+- I like products that hide complex workflows behind a clean, friendly UI.
+- Background in **IoT and wireless sensor networks**: BLE sensing, MQTT, and research on WSN coverage optimization.
+
+### Tech stack
+
+<table>
+  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,python,cpp" alt="Java, Kotlin, TypeScript, JavaScript, Python, C++"></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=spring,nodejs,django,postgres" alt="Spring Boot, Node.js, Django, PostgreSQL"></td></tr>
+  <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="React, Vite, HTML, CSS"></td></tr>
+  <tr><td><b>DevOps &amp; tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,qt" alt="Docker, GitHub Actions, Nginx, Linux, Qt"></td></tr>
+</table>
+
+Also: Spring Security · JPA · Keycloak · Ant Design · MQTT · Playwright · ThingsBoard
+
+### Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Douyin Downloader](https://github.com/NRO2k3/douyin-downloader-app)** | Desktop app for bulk-downloading Douyin videos without watermark. Follow channels and sync only new videos, pick videos with cover previews, one-click Windows installer built and published by CI. | Python · PySide6 · React · Ant Design · Playwright |
+| **[Java Career Roadmap](https://github.com/NRO2k3/java-sa-roadmap)** · [live](https://nro2k3.github.io/java-sa-roadmap/) | Learning platform with two career paths, Solution Architect and Dev Lead: lessons with code samples, quizzes, skill checklists, 15 architecture patterns and a review mode. | React · TypeScript · Ant Design · Vite |
+| **[Lingua](https://github.com/NRO2k3/lingua)** · [live](https://nro2k3.github.io/lingua/) | Language-learning web app for Vietnamese speakers: English and Spanish (CEFR A1–B2) and Chinese (HSK 1–4) with pinyin, flashcards, grammar and dialogues. | JavaScript · HTML · CSS |
+| **[Trend AI News](https://github.com/NRO2k3/trend-ai-news)** · [live](https://nro2k3.github.io/trend-ai-news/) | AI news hub for web developers: clustered headlines, trending AI repos, tools and models explained, plus a short learning path. | Node.js · JavaScript |
+| **[AI Agent](https://github.com/NRO2k3/AI_AGENT)** | Microservices platform with API gateway, service discovery, config server, an AI backend and a React client secured by Keycloak. | Java · Python · React · Keycloak · Docker |
+| **[Mini Project VDT 2025](https://github.com/NRO2k3/Mini_Project_VDT_2025)** | Full-stack web application with a secured REST API and containerized deployment. | Spring Boot · Spring Security · JPA · PostgreSQL · Docker |
+| **[WSN BLE](https://github.com/NRO2k3/WSN_BLE)** | BLE sensor network that monitors soil temperature and humidity for agriculture, visualized on ThingsBoard. | C++ · BLE · ThingsBoard |
+| **[WSN coverage research](https://github.com/NRO2k3/MCA_2025)** | Coverage optimization for wireless sensor networks using the Fruit Fly Optimization Algorithm. | Python |
+
+### Contribution snake
+
+<!-- Ảnh do workflow .github/workflows/snake.yml tạo lại mỗi ngày (nhánh output) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NRO2k3/NRO2k3/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/NRO2k3/NRO2k3/output/github-snake.svg" alt="Snake eating my contribution graph">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE2C55,100:25F4EE&height=110&section=footer" alt="">
+</p>
