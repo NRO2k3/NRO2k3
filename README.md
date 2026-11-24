@@ -25,9 +25,10 @@
 
 <table>
   <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,python,cpp" alt="Java, Kotlin, TypeScript, JavaScript, Python, C++"></td></tr>
-  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=spring,nodejs,django,postgres" alt="Spring Boot, Node.js, Django, PostgreSQL"></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=spring,nodejs,django" alt="Spring Boot, Node.js, Django"></td></tr>
+  <tr><td><b>Database</b></td><td><img src="https://raw.githubusercontent.com/NRO2k3/NRO2k3/main/assets/database.svg" height="48" alt="PostgreSQL, MariaDB"></td></tr>
   <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="React, Vite, HTML, CSS"></td></tr>
-  <tr><td><b>DevOps &amp; tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,qt" alt="Docker, GitHub Actions, Nginx, Linux, Qt"></td></tr>
+  <tr><td><b>DevOps &amp; tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,qt" alt="Docker, Kubernetes, GitHub Actions, Nginx, Linux, Qt"></td></tr>
 </table>
 
 Also: Spring Security · JPA · Keycloak · Ant Design · MQTT · Playwright · ThingsBoard
