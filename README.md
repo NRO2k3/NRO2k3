@@ -1,6 +1,6 @@
 <!-- Banner sóng động -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25F4EE,100:FE2C55&height=190&section=header&text=NRO2K3&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20%26%20Spring%20Boot%20%C2%B7%20Full-stack%20Developer&descAlignY=58&descSize=18" alt="NRO2K3 — Java & Spring Boot · Full-stack Developer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25F4EE,100:FE2C55&height=190&section=header&text=NRO2K3&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Full-stack%20Developer&descAlignY=58&descSize=18" alt="NRO2K3 — Java · Spring Boot · Full-stack Developer">
 </p>
 
 <!-- Dòng chữ tự gõ -->
