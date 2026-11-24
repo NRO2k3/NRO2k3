@@ -32,19 +32,6 @@
 
 Also: Spring Security · JPA · Keycloak · Ant Design · MQTT · Playwright · ThingsBoard
 
-### Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Douyin Downloader](https://github.com/NRO2k3/douyin-downloader-app)** | Desktop app for bulk-downloading Douyin videos without watermark. Follow channels and sync only new videos, pick videos with cover previews, one-click Windows installer built and published by CI. | Python · PySide6 · React · Ant Design · Playwright |
-| **[Java Career Roadmap](https://github.com/NRO2k3/java-sa-roadmap)** · [live](https://nro2k3.github.io/java-sa-roadmap/) | Learning platform with two career paths, Solution Architect and Dev Lead: lessons with code samples, quizzes, skill checklists, 15 architecture patterns and a review mode. | React · TypeScript · Ant Design · Vite |
-| **[Lingua](https://github.com/NRO2k3/lingua)** · [live](https://nro2k3.github.io/lingua/) | Language-learning web app for Vietnamese speakers: English and Spanish (CEFR A1–B2) and Chinese (HSK 1–4) with pinyin, flashcards, grammar and dialogues. | JavaScript · HTML · CSS |
-| **[Trend AI News](https://github.com/NRO2k3/trend-ai-news)** · [live](https://nro2k3.github.io/trend-ai-news/) | AI news hub for web developers: clustered headlines, trending AI repos, tools and models explained, plus a short learning path. | Node.js · JavaScript |
-| **[AI Agent](https://github.com/NRO2k3/AI_AGENT)** | Microservices platform with API gateway, service discovery, config server, an AI backend and a React client secured by Keycloak. | Java · Python · React · Keycloak · Docker |
-| **[Mini Project VDT 2025](https://github.com/NRO2k3/Mini_Project_VDT_2025)** | Full-stack web application with a secured REST API and containerized deployment. | Spring Boot · Spring Security · JPA · PostgreSQL · Docker |
-| **[WSN BLE](https://github.com/NRO2k3/WSN_BLE)** | BLE sensor network that monitors soil temperature and humidity for agriculture, visualized on ThingsBoard. | C++ · BLE · ThingsBoard |
-| **[WSN coverage research](https://github.com/NRO2k3/MCA_2025)** | Coverage optimization for wireless sensor networks using the Fruit Fly Optimization Algorithm. | Python |
-
 ### Contribution snake
 
 <!-- Ảnh do workflow .github/workflows/snake.yml tạo lại mỗi ngày (nhánh output) -->
